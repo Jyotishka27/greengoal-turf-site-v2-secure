@@ -10,21 +10,21 @@
   },
   "courts": [
     {
-      "id": "5A",
-      "label": "5-a-side Football",
-      "basePrice": 1200,
+      "id": "HG",
+      "label": "Half Ground Football",
+      "basePrice": 1500,
       "durationMins": 60
     },
     {
-      "id": "7A",
-      "label": "7-a-side Football",
-      "basePrice": 1800,
+      "id": "FG",
+      "label": "Full Ground Football",
+      "basePrice": 2500,
       "durationMins": 60
     },
     {
       "id": "CRK",
       "label": "Cricket Nets (Lane)",
-      "basePrice": 800,
+      "basePrice": 2500,
       "durationMins": 60
     }
   ],
@@ -47,7 +47,7 @@
     "First Aid"
   ],
   "rules": [
-    "Only turf-safe shoes (no studs).",
+    "Only turf-safe shoes.",
     "No smoking or alcohol on premises.",
     "Arrive 10 mins early.",
     "Respect your slot timing; buffers are enforced."

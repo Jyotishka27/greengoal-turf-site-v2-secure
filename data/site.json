@@ -10,13 +10,13 @@
   },
   "courts": [
     {
-      "id": "HG",
+      "id": "7A",
       "label": "Half Ground Football",
       "basePrice": 1500,
       "durationMins": 60
     },
     {
-      "id": "FG",
+      "id": "5A",
       "label": "Full Ground Football",
       "basePrice": 2500,
       "durationMins": 60
